@@ -1,6 +1,6 @@
 ## Hi there, I'm Yulia 👋
 
-Junior Frontend Developer, always eager to explore new horizons in the world of web development.
+Frontend Developer, always eager to explore new horizons in the world of web development.
 
 #### The languages and tools I've worked with:
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/> 
